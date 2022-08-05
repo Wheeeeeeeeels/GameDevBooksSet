@@ -16,7 +16,7 @@ You can also Contribute this project and issue me
        * Mathematics for 3D Game Programming and Computer Graphics 3rd Ed(2011)
        * 3D Math Primer for Graphics and Game Development 2nd Ed(2011)
        * Essential Mathematics for Games and Interactive Applications 3rd Ed(2011)
-    * Advanced Mathematics for Game Programming
+   * Advanced Mathematics for Game Programming
        * Geometric Algebra for Computer Science(2007)
        * Geometrics Tools for Computer Science(2002) -> Computational Geometry 3rd Ed(2008)
        * Visualizing Quaternions(2006)
