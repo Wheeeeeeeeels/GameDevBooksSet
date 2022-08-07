@@ -10,6 +10,26 @@ You can also Contribute this project and issue me
    * CS Foundation
        * SICP
        * CSAPP
+       
+###### Programming Languages 
+   * C/C++
+       * The C Programming Language(TCPL) 2nd Ed(1998)
+       * C++ Primer(CPPP) 5th Ed(2012)
+       * Effective C++ 3rd Ed(2005)->More Effective C++(1996)->Effective Mordern C++(2014)->Optimized C++(2016)
+       * Exceptional C++(1999)->More Exceptional C++(2001)->Exceptional C++ Style(2004)->C++ Coding Standards(2004)
+       * The C++ Standard Library 2nd Ed(2012)->Effective STL(2001)
+       * C++ Concurrency in Action(2012)->The Boost C++ Libraries 2nd Ed(2014)
+       * Advanced C++
+          * Insied the C++ Object Model(1996)->Imperfect C++(2004)
+          * C++ Templates(2002)->Modern C++ Design(2001)
+          * Elements of Programming(2009)->From Mathematics the Generic Programming(2014)
+   * C#
+       * Microsoft Visual C# Step by Step 8th Ed(2015)
+       * C# in Depth 3rd Ed(2013)
+       * CLR via C#(2012)
+   * Lua
+       * Programming in Lua 4th Ed(2016)
+       * Lua Programming(2008)
 ###### Mathematics for Game Programming
    * Beginning Mathematics for Game Programming
        * Foduations of Game Engine Development,VOL1:Mathematics(2016)
