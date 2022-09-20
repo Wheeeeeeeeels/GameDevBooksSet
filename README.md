@@ -41,7 +41,10 @@ You can also Contribute this project and issue me
        * Geometrics Tools for Computer Science(2002) -> Computational Geometry 3rd Ed(2008)
        * Visualizing Quaternions(2006)
        * Div,Grad,Curl and All That 4th Ed(2004)
-       
+             
+#######  Blogs && Papers
+
+* https://kesen.realtimerendering.com/
 
 
 
