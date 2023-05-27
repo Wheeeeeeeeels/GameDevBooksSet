@@ -42,7 +42,7 @@ You can also Contribute this project and issue me
        * Visualizing Quaternions(2006)
        * Div,Grad,Curl and All That 4th Ed(2004)
              
-#######  Blogs && Papers
+#####  Blogs && Papers
 
 * Paper Set: https://kesen.realtimerendering.com/
 
